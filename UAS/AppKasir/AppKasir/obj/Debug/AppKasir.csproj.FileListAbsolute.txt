@@ -1,0 +1,30 @@
+C:\Users\ASUS\source\repos\AppKasir\AppKasir\bin\Debug\AppKasir.exe.config
+C:\Users\ASUS\source\repos\AppKasir\AppKasir\bin\Debug\AppKasir.exe
+C:\Users\ASUS\source\repos\AppKasir\AppKasir\bin\Debug\AppKasir.pdb
+C:\Users\ASUS\source\repos\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\AppKasir\AppKasir\obj\Debug\AppKasir.FormLogin.resources
+C:\Users\ASUS\source\repos\AppKasir\AppKasir\obj\Debug\AppKasir.FormMenuUtama.resources
+C:\Users\ASUS\source\repos\AppKasir\AppKasir\obj\Debug\AppKasir.Properties.Resources.resources
+C:\Users\ASUS\source\repos\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AppKasir\AppKasir\obj\Debug\AppKasir.exe
+C:\Users\ASUS\source\repos\AppKasir\AppKasir\obj\Debug\AppKasir.pdb
+C:\Users\ASUS\source\repos\AppKasir\AppKasir\obj\Debug\AppKasir.FormMasterKasir.resources
+C:\Users\ASUS\source\repos\AppKasir\AppKasir\obj\Debug\AppKasir.FormMasterBarang.resources
+D:\Novita\PemVis\New folder\AppKasir\AppKasir\bin\Debug\AppKasir.exe.config
+D:\Novita\PemVis\New folder\AppKasir\AppKasir\bin\Debug\AppKasir.exe
+D:\Novita\PemVis\New folder\AppKasir\AppKasir\bin\Debug\AppKasir.pdb
+D:\Novita\PemVis\New folder\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.AssemblyReference.cache
+D:\Novita\PemVis\New folder\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.SuggestedBindingRedirects.cache
+D:\Novita\PemVis\New folder\AppKasir\AppKasir\obj\Debug\AppKasir.FormLogin.resources
+D:\Novita\PemVis\New folder\AppKasir\AppKasir\obj\Debug\AppKasir.FormMasterBarang.resources
+D:\Novita\PemVis\New folder\AppKasir\AppKasir\obj\Debug\AppKasir.FormMasterKasir.resources
+D:\Novita\PemVis\New folder\AppKasir\AppKasir\obj\Debug\AppKasir.FormMenuUtama.resources
+D:\Novita\PemVis\New folder\AppKasir\AppKasir\obj\Debug\AppKasir.Properties.Resources.resources
+D:\Novita\PemVis\New folder\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.GenerateResource.cache
+D:\Novita\PemVis\New folder\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.CoreCompileInputs.cache
+D:\Novita\PemVis\New folder\AppKasir\AppKasir\obj\Debug\AppKasir.exe
+D:\Novita\PemVis\New folder\AppKasir\AppKasir\obj\Debug\AppKasir.pdb
+D:\Novita\PemVis\New folder\AppKasir\AppKasir\obj\Debug\AppKasir.FormTransaksiPenjualan.resources
+D:\Novita\PemVis\New folder\AppKasir\AppKasir\obj\Debug\AppKasir.FormUtilityGantiPass.resources
